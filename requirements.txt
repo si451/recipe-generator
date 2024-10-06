@@ -1,4 +1,3 @@
-pip install auto-gptq
 pip install --upgrade transformers
 pip install optimum
 pip install streamlit
