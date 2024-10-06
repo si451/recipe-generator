@@ -1,2 +1,1 @@
-pip install optimum
-pip install streamlit
+streamlit
