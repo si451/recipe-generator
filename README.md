@@ -23,7 +23,7 @@ Below is a diagram showing the workflow and model used in this project:
 flowchart TD
     A["User Input (Ingredients, Preferences)"]
     B["Preprocessing"]
-    C["Recipe Generation Model (e.g., GPT-based or Rule-based)"]
+    C["Recipe Generation Model[openchat-3.5-0106-GPTQ]"]
     D["Postprocessing & Formatting"]
     E["Generated Recipe Output"]
 
